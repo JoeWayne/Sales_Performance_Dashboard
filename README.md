@@ -1,7 +1,7 @@
 
 # Sales Performance Dashboard
 
-This project aims to create a Sales Performance Dashboard using SQL. The dashboard provides insights into sales performance, customer trends, and product popularity, enabling data-driven decision-making. 
+This project aims to create a Sales Performance Dashboard using mySQL with PowerBI. The dashboard provides insights into sales performance, customer trends, and product popularity, enabling data-driven decision-making. 
 
 ## Project Overview
 The Sales Performance Dashboard project involves designing a database schema, writing SQL queries to extract relevant sales data, and using a visualization tool to create an interactive dashboard.
@@ -94,10 +94,4 @@ END;
 
 1. **Set up the database**: Run the SQL scripts to create the tables and insert sample data.
 2. **Execute queries**: Use the provided SQL queries to extract data and gain insights.
-3. **Create the dashboard**: Use a data visualization tool to create an interactive dashboard using the extracted data.
-
-## Tools and Technologies
-
-- **SQL**: For database design and queries.
-- **Database Management System**: MySQL, PostgreSQL, or any other SQL database.
-- **Data Visualization Tool**: Power BI, Tableau, or any other visualization tool.
+3. **Create the dashboard**: Use a data visualization tool, in this case PowerBI, to create an interactive dashboard using the extracted data.
