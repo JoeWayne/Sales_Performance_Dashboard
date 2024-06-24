@@ -15,7 +15,7 @@ Design a database schema to store sales data and populate it with sample data.
 Write SQL queries to extract key metrics and insights. Create views and stored procedures for reusable queries.
 
 ### 3. Data Visualization
-Use a data visualization tool (e.g., Power BI, Tableau) to create an interactive dashboard.
+Use a data visualization tool, PowerBI, to create an interactive dashboard.
 
 ## Database Schema
 
